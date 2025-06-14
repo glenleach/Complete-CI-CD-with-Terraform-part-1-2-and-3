@@ -1,5 +1,5 @@
 # Demo App – DevOps Bootcamp Training (TechWorld with Nana)
-# This repository is part of the DevOps Bootcamp from TechWorld with Nana.
+This repository is part of the DevOps Bootcamp from TechWorld with Nana.
 
 # java-maven-app-with-terraform
 
